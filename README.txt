@@ -1,3 +1,3 @@
 This is a first change
 Second change in the new branch
-News changes 
+esta vez estoy haciendo un cambio con el gitignore
